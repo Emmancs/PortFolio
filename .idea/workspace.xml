@@ -36,7 +36,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
@@ -66,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1785732552934</updated>
       <workItem from="1785732554136" duration="3902000" />
-      <workItem from="1788593622567" duration="6579000" />
+      <workItem from="1788593622567" duration="6888000" />
     </task>
     <servers />
   </component>
