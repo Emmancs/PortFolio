@@ -6,14 +6,13 @@ import './App.css'
 import GradientWaves from './component/GradientWaves'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <div style={{ position: 'fixed', top: 0, left: 0, width: '100vw', height: '100vh', zIndex: -1 }}>
         <GradientWaves />
       </div>
-      <section id="center">
+      {/* <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
@@ -118,7 +117,7 @@ function App() {
       </section>
 
       <div className="ticks"></div>
-      <section id="spacer"></section>
+      <section id="spacer"></section> */}
     </>
   )
 }
